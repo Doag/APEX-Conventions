@@ -34,4 +34,4 @@ To use the APEX debug, it must be activated
 
 
 With APEX 5.1 and the introduction of the Interactive Grid, more and more Javascript will be used in applications.
-In order to find errors quickly, it is advisable to have a look at https://apex.mt-ag.com/jslgr.
+In order to find errors quickly, it is advisable to have a look at https://apex.mt-ag.com/tools#logchase.
